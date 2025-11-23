@@ -15,6 +15,8 @@ function App() {
             <a href="#" className="nav-link">FAQ</a>
             <a href="#" className="nav-link">Contact</a>
           </nav>
+
+          <button className="btn-cta">Get in Touch</button>
         </div>
       </header>
 
